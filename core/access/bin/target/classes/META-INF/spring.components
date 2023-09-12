@@ -1,0 +1,5 @@
+org.cmdbuild.classe.access.UserCardFileServiceImpl=org.springframework.stereotype.Component
+org.cmdbuild.classe.access.UserCardHelperServiceImpl=org.springframework.stereotype.Component
+org.cmdbuild.classe.access.UserCardServiceImpl=org.springframework.stereotype.Component
+org.cmdbuild.classe.access.UserDomainServiceImpl=org.springframework.stereotype.Component
+org.cmdbuild.classe.access.UserFilterAccessServiceImpl=org.springframework.stereotype.Component

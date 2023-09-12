@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Implementation-Title: cmdbuild-gis-api
+Implementation-Version: 3.4.2-DEV-SNAPSHOT
+CMDBuild-Version: 3.4.2-DEV-SNAPSHOT
+Created-By: Maven Integration for Eclipse
+Implementation-Changeset: 
+

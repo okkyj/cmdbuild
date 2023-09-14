@@ -4,5 +4,5 @@ Implementation-Title: cmdbuild-utils-proxy
 Implementation-Version: 3.4.2-DEV-SNAPSHOT
 CMDBuild-Version: 3.4.2-DEV-SNAPSHOT
 Created-By: Maven Integration for Eclipse
-Implementation-Changeset: 
+Implementation-Changeset: e7e5444897d3c32c33036dbb6f33fb6cb8481f41
 

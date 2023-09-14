@@ -205,7 +205,7 @@ public class CmIoTest {
         try {
             Files.writeString(file.toPath(), "test");
 
-            DataSource dataSource = newDataSourceFromUrl("file://" + file.getAbsolutePath());//TODO improve this
+            DataSource dataSource = newDataSourceFromUrl(file.getAbsolutePath());//TODO improve this
             assertEquals("test", readToString(dataSource));
         } finally {
             deleteQuietly(file);

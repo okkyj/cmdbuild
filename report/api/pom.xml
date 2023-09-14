@@ -30,7 +30,7 @@
         <dependency>
             <groupId>net.sf.jasperreports</groupId> 
             <artifactId>jasperreports-javaflow</artifactId><!--  not available on maven, download from jasper sourceforge repository https://sourceforge.net/projects/jasperreports/files/jasperreports/ -->
-            <version>6.17.0</version> <!--note: when changing version, update also zxing version below -->
+            <version>6.20.6</version> <!--note: when changing version, update also zxing version below -->
 <!--            <artifactId>jasperreports</artifactId>
             <version>6.19.0</version>-->
             <exclusions>

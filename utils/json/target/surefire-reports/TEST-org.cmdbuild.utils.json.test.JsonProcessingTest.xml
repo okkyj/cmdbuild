@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.cmdbuild.utils.json.test.JsonProcessingTest" time="0.089" tests="4" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="org.cmdbuild.utils.json.test.JsonProcessingTest" time="0.106" tests="4" errors="0" skipped="0" failures="0">
   <properties>
     <property name="cmdbuild.test.database.admin.password" value=""/>
     <property name="java.specification.version" value="17"/>
@@ -19,7 +19,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ID"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\useri\AppData\Local\Temp\surefire13819389655286654365\surefirebooter17523753050365160273.jar C:\Users\useri\AppData\Local\Temp\surefire13819389655286654365 2023-09-12T15-55-18_341-jvmRun1 surefire1792936032549838678tmp surefire_08927652901409346136tmp"/>
+    <property name="sun.java.command" value="C:\Users\useri\AppData\Local\Temp\surefire12996624138737878042\surefirebooter4534890049167416543.jar C:\Users\useri\AppData\Local\Temp\surefire12996624138737878042 2023-09-14T11-33-33_010-jvmRun1 surefire4753415993629115614tmp surefire_010824261451914220981tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="maven.home" value="C:\Data\CMDBuild-project\cmdbuild-upstream\cmdbuild-3.4.2-src\EMBEDDED"/>
     <property name="cmdbuild.test.database.create" value=""/>
@@ -39,7 +39,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="cmdbuild.test.my.hostname" value=""/>
-    <property name="surefire.real.class.path" value="C:\Users\useri\AppData\Local\Temp\surefire13819389655286654365\surefirebooter17523753050365160273.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\useri\AppData\Local\Temp\surefire12996624138737878042\surefirebooter4534890049167416543.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="cmdbuild.test.delay" value=""/>
@@ -70,8 +70,8 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testCustomEnumSerialization" classname="org.cmdbuild.utils.json.test.JsonProcessingTest" time="0.039"/>
-  <testcase name="testPrettyPrintLazy1" classname="org.cmdbuild.utils.json.test.JsonProcessingTest" time="0.05"/>
+  <testcase name="testCustomEnumSerialization" classname="org.cmdbuild.utils.json.test.JsonProcessingTest" time="0.057"/>
+  <testcase name="testPrettyPrintLazy1" classname="org.cmdbuild.utils.json.test.JsonProcessingTest" time="0.048"/>
   <testcase name="testPrettyPrintLazy2" classname="org.cmdbuild.utils.json.test.JsonProcessingTest" time="0"/>
   <testcase name="testPrettyPrintLazy3" classname="org.cmdbuild.utils.json.test.JsonProcessingTest" time="0"/>
 </testsuite>
